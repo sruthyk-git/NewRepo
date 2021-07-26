@@ -1,12 +1,4 @@
-/**
- * 
- */
-package helloworld;
 
-/**
- * @author ustjavab221
- *
- */
 public class addition {
 
 	public static void main(String[] args) {
